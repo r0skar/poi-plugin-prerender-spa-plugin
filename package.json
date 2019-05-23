@@ -1,0 +1,9 @@
+{
+  "name": "poi-plugin-prerender-spa-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prerender-spa-plugin": "^3.4.0"
+  }
+}
