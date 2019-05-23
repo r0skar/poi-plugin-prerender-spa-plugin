@@ -1,0 +1,1 @@
+# poi-plugin-prerender-spa-plugin
