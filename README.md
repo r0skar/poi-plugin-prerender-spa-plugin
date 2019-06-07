@@ -14,7 +14,7 @@ export default {
       resolve: 'prerender-spa-plugin',
       options: {
         staticDir: resolve(__dirname, 'dist'),
-        routes: [ '/ ]
+        routes: [ '/' ]
       }
     }
   ]

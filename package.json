@@ -3,6 +3,11 @@
   "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
+  "author": "Oskar Rainer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0skar/poi-plugin-prerender-spa-plugin.git"
+  },
   "dependencies": {
     "prerender-spa-plugin": "^3.4.0"
   }
